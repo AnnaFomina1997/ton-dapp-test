@@ -1,6 +1,6 @@
 # Blockchain platform - Multivisual
 
-BFrontEnd + SmartContracts
+This part of the project is responsible for FrontEnd + SmartContracts
 
 
 ## Running the project
