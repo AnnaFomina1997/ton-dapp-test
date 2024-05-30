@@ -20,4 +20,4 @@ install FunC + Fift
 go to the "smart_contracts" folder
 npx blueprint run
 
-For the test, use the TEST NETWORK IN THE MAIN NETWORK YOU WILL BE CHARGED MONEY FOR COMMISSIONS
+For the test, use the TEST NETWORK. IN THE MAIN NETWORK YOU WILL BE CHARGED MONEY FOR COMMISSIONS
