@@ -5,19 +5,18 @@ BFrontEnd + SmartContracts
 
 ## Running the project
 
-1. установить Node.js 
+1. install Node.js
 
-2. настроить npm
-3. для подтягивания зависимостей:
+2. configure npm
+3. to pull up dependencies:
 npm install
 
-4. поднимать front по команде:
+4. raise front on command:
 npx vite
 
-5. для компиляции смарт контрактов и их деплоя:
-установить FunC + Fift (надпись кликабельна)
-зайти в папку smart_contracts
+5. to compile smart contracts and deploy them:
+install FunC + Fift
+go to the "smart_contracts" folder
 npx blueprint run
 
-Для теста использовать ТЕСТОВУЮ СЕТЬ 
-В МЕЙН СЕТИ С ВАС БУДУТ БРАТЬ ДЕНЬГИ ЗА КОМИССИИ
+For the test, use the TEST NETWORK IN THE MAIN NETWORK YOU WILL BE CHARGED MONEY FOR COMMISSIONS
