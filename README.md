@@ -2,6 +2,7 @@
 
 This part of the project is responsible for FrontEnd + SmartContracts
 
+Link for BackEnd + DB: https://github.com/AnnaFomina1997/Web_model_test
 
 ## Running the project
 
