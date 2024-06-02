@@ -24,10 +24,11 @@
 
 ![image](https://github.com/AnnaFomina1997/ton-dapp-test/assets/102873833/df987259-2dfb-44b3-a389-10a7823ca4ce)
 
-7.	Подключаем кошелек 
+7.	Подключаем кошелек
+8.	
  ![image](https://github.com/AnnaFomina1997/ton-dapp-test/assets/102873833/9829fd1f-2648-4972-b919-bdb96fa2701a)
 
-8.	Подтверждаем транзакцию подключения
+9.	Подтверждаем транзакцию подключения
  
 ![image](https://github.com/AnnaFomina1997/ton-dapp-test/assets/102873833/fe97b45c-318d-4468-ae7c-97641bf49525)
 
