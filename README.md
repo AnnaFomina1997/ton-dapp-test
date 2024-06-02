@@ -1,23 +1,20 @@
 # Blockchain platform - Multivisual
 
-This part of the project is responsible for FrontEnd + SmartContracts
+Эта часть проекта отвечает за  FrontEnd + SmartContracts
 
-Link for BackEnd + DB: https://github.com/AnnaFomina1997/Web_model_test
+Ссылка наr BackEnd + DB: https://github.com/AnnaFomina1997/Web_model_test
 
-## Running the project
 
-1. install Node.js
+Деплой контракта
+1.	Установить Node.js
+2.	Настроить npm
+3.	Установить зависимости: «npm install»
+ 
+![image](https://github.com/AnnaFomina1997/ton-dapp-test/assets/102873833/63d0c35e-5e62-4ace-8d30-61540cf23a33)
 
-2. configure npm
-3. to pull up dependencies:
-npm install
 
-4. raise front on command:
-npx vite
+4.	Установить FunC + Fift (для компиляции контракта в байт код в случае если нам нужны доработки контракта): «npx blueprint run» запуск заранее пропипанных скриптов взаимодействия 2 на выбор. Выбрать необходимый скрипт 
 
-5. to compile smart contracts and deploy them:
-install FunC + Fift
-go to the "smart_contracts" folder
-npx blueprint run
 
-For the test, use the TEST NETWORK. IN THE MAIN NETWORK YOU WILL BE CHARGED MONEY FOR COMMISSIONS
+
+для теста использовать ТЕСТОВУЮ СЕТЬ/ В МЕЙН СЕТИ С ВАС БУДУТ БРАТЬ ДЕНЬГИ ЗА КОМИССИИ
