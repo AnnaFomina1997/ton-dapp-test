@@ -5,7 +5,7 @@
 Ссылка наr BackEnd + DB: https://github.com/AnnaFomina1997/Web_model_test
 
 
-Деплой контракта
+## Деплой контракта
 1.	Установить Node.js
 2.	Настроить npm
 3.	Установить зависимости: «npm install»
