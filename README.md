@@ -1,4 +1,6 @@
-# Blockchain platform - Multivisual
+# Blockchain platform - Multivisual 
+
+Командная работа студентов НИТУ МИСИС
 
 Эта часть проекта отвечает за  FrontEnd + SmartContracts
 
